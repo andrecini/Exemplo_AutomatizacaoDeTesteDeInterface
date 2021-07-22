@@ -1,0 +1,9 @@
+Nome: André Cini
+Data de Nascimento: 23/02/2001
+Telefone: (11) 98765-4321
+CPF: 123.456.789-01
+UF: SP
+RA: 081200039
+Período: Noturno
+
+

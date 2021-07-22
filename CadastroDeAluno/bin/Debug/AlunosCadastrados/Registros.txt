@@ -1,0 +1,9 @@
+Nome: AAAAAAAA
+Data de Nascimento: 11/11/1111
+Telefone: (22) 22222-2222
+CPF: 333.333.333-33
+UF: dd
+RA: 444444444
+Período: Diurno
+
+

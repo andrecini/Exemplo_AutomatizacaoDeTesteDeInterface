@@ -1,0 +1,17 @@
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\TesteUI.dll
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\TesteUI.pdb
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\CadastroDeAluno.exe
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\CadastroDeAluno.pdb
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\CadastroDeAluno.exe.config
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\obj\Debug\TesteUI.csproj.AssemblyReference.cache
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\obj\Debug\TesteUI.csproj.CoreCompileInputs.cache
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\obj\Debug\TesteUI.csproj.CopyComplete
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\obj\Debug\TesteUI.dll
+C:\Users\fh158\source\repos\ExemploTDD\TesteUI\obj\Debug\TesteUI.pdb

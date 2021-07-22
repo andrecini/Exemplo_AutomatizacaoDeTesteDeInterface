@@ -5,16 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace CadastroDeAluno.Classes
+namespace CadastroDeAluno
 {
     public class Escritor
     {
         public static void SalvaArquivo(List<Aluno> cadastrados)
         {
-            if (!Directory.Exists(@"\AlunosCadastrados"))
-                Directory.CreateDirectory(@"\AlunosCadastrados");
+            if (!Directory.Exists(@"AlunosCadastrados"))
+                Directory.CreateDirectory(@"AlunosCadastrados");
 
-            File.WriteAllText("Registros", FormataConteudo(cadastrados));
+            File.WriteAllText(@"AlunosCadastrados\Registros.txt", FormataConteudo(cadastrados));
         }
 
         private static string FormataConteudo(List<Aluno> cadastrados)
