@@ -8,3 +8,13 @@ C:\Users\fh158\source\repos\ExemploTDD\CadastroDeAluno\bin\Debug\CadastroDeAluno
 C:\Users\fh158\source\repos\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.exe
 C:\Users\fh158\source\repos\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.pdb
 C:\Users\fh158\source\repos\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.frmCadastro.resources
+C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\bin\Debug\CadastroDeAluno.exe.config
+C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\bin\Debug\CadastroDeAluno.exe
+C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\bin\Debug\CadastroDeAluno.pdb
+C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.csproj.AssemblyReference.cache
+C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.frmCadastro.resources
+C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.Properties.Resources.resources
+C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.csproj.GenerateResource.cache
+C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.csproj.CoreCompileInputs.cache
+C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.exe
+C:\Users\fh158\Desktop\ExemploTDD\CadastroDeAluno\obj\Debug\CadastroDeAluno.pdb
